@@ -8,6 +8,6 @@
 <body>
     <h1>页面错误</h1>
     <h2>魏雅</h2>
-    <ing src="./1.webp" alt="一只猫"></ing>
+    <img src="./1.webp" alt="一只猫">
 </body>
 </html>
